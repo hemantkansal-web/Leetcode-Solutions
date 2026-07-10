@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -79,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
