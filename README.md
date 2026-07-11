@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
