@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
