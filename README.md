@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
