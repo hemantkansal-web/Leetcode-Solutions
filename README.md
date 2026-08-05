@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0925-long-pressed-name](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1556-thousand-separator](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1556-thousand-separator) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0925-long-pressed-name](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
