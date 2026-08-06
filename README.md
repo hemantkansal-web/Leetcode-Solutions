@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
