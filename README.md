@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0575-distribute-candies](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0652-find-duplicate-subtrees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
