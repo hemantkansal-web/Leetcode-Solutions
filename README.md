@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
