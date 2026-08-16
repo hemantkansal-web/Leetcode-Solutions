@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
@@ -327,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3701-compute-alternating-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
