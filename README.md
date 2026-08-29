@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1534-count-good-triplets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
