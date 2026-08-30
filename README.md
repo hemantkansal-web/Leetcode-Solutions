@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -400,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
