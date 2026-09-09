@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
