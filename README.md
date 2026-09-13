@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2469-convert-the-temperature](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
