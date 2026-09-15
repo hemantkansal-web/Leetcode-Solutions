@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
