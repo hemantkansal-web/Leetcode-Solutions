@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
