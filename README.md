@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2469-convert-the-temperature](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
