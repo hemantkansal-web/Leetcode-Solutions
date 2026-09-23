@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
