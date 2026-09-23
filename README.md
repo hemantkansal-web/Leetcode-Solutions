@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
