@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1556-thousand-separator](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1556-thousand-separator) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
