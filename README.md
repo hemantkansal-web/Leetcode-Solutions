@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
