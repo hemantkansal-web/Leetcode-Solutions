@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3884-first-matching-character-from-both-ends](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Design
