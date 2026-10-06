@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0856-score-of-parentheses](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0856-score-of-parentheses](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
@@ -505,4 +508,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
