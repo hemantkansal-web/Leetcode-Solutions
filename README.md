@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2239-find-closest-number-to-zero](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
