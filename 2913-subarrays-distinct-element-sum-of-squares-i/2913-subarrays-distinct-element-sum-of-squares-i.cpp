@@ -5,12 +5,15 @@ public:
         int ans = 0;
 
         for(int i = 0;i < n;i++){
-            set<int>s;
+            unordered_map<int,int>freq;
+            int distinct = 0;
 
             for(int j = i;j < n;j++){
-                s.insert(nums[j]);
+                if(freq[nums[j]] == 0){
+                    distinct++;
+                }
+                freq[nums[j]]++;
 
-                int distinct = s.size();
                 ans += distinct * distinct;
             }
         }
