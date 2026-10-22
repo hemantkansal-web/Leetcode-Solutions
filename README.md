@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -561,4 +564,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
