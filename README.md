@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
