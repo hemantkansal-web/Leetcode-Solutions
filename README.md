@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
