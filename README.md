@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
