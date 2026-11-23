@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
