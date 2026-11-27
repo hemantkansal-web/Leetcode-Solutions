@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3884-first-matching-character-from-both-ends](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/hemantkansal-web/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Design
 |  |
